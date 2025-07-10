@@ -1,24 +1,83 @@
-<h1 align="center">Hi 👋, I'm Yash Gadhave</h1>
-<h3 align="center">A passionate student with expertise spanning robotics, electronics and software devolopment</h3>
 
-- 🔭 I’m currently working on **SIEP e-bike project**
-
-- 🌱 I’m currently learning **Advanced control system ,cloud-based solutions ,advanced java programmingg**
-
-- 📫 How to reach me **yashgadhave35@gmail.com**
-
-- ⚡ Fun fact **combining technology with creativity is my passion**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi, I'm Yash Gadhave </h1>
+<p align="center">
+  <b>PCB Design Freelancer • Embedded Systems Developer • Founder @ FilamentXyash</b><br>
+  <i>Electronics & Telecommunication Engineering | Pune, India </i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>"The best way to predict the future is to invent it." – Alan Kay</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-cloud-cmd&show_icons=true&locale=en&layout=compact" alt="yash-cloud-cmd" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-cloud-cmd&show_icons=true&locale=en" alt="yash-cloud-cmd" /></p>
+##  About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-cloud-cmd&" alt="yash-cloud-cmd" /></p>
+I'm a hardware enthusiast who enjoys solving real-world problems with custom PCBs and embedded systems.
 
+I currently work as a **freelance PCB designer**, and I'm also building **FilamentXyash** – a personal venture to design a cost-effective desktop filament extruder for 3D printing.
+
+Whether it's debugging circuits at 1 AM or optimizing board layouts for real-world deployment, I'm passionate about building things that actually work – and keep working.
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/-EasyEDA-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-KiCad-4063D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Altium-FF6C37?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Flux-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/-ESP32-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square" />
+  <img src="https://img.shields.io/badge/-C-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Java-brown?style=flat-square" />
+</p>
+
+---
+
+## 🧪 Featured Projects
+
+<details>
+<summary><b>🔋 USB Power Meter</b></summary>
+<br>
+A compact ESP32-based USB voltage/current measurement tool with OLED display. Designed for makers to test and monitor USB charging lines with accurate readings.
+</details>
+
+<details>
+<summary><b>📦 ESP32 DevKit V1 (Custom PCB)</b></summary>
+<br>
+Redesigned ESP32 Dev board with a cleaner layout, better GPIO access, and improved power filtering. Ideal for prototyping and small production runs.
+</details>
+
+<details>
+<summary><b>🧵 FilamentXyash – 3D Filament Maker</b></summary>
+<br>
+Designed and built a desktop filament extruder from scratch. Focused on low-cost but high-quality output for 3D printing labs and student projects.
+</details>
+
+---
+
+## 🚧 Currently Working On
+
+- 🚁 **Custom drone electronics** for the NIDAR UAV Challenge  
+- 🔬 Upgrading FilamentXyash for better extrusion control  
+- 🛠️ Client projects: PCB reviews, schematic fixes, power modules
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="www.linkedin.com/in/filamentxyashxpcb">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yashgadhave35@email.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+---
+
+<p align="center">
+  <i>Curious about the “why”, not just the “how”. Always learning. Always building.</i>
+</p>
